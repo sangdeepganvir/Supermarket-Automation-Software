@@ -1,6 +1,7 @@
 # Supermarket Automation System
 
 The Supermarket Automation System is a project designed to streamline the operations of a supermarket by automating various tasks and providing different roles for different users.
+Is was a Group Project for Software Engineering Lab.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
